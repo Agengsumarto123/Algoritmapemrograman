@@ -1,8 +1,8 @@
 #setting variabel
-nim = "21"
-nama ="san"
-kelas ="2a"
-prodi = "ti"
+nim ="2023"
+nama ="hyyGengs"
+kelas ="TI2A"
+prodi ="Informatika"
 
 #settung variabel nilai
 
